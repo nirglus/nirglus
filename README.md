@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nir Gluskin</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBrZncxODdoeXZnMmd3bHBybTg0eTM0c3FjMTltY3hxb3N3MnZkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBrZncxODdoeXZnMmd3bHBybTg0eTM0c3FjMTltY3hxb3N3MnZkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirglus&label=Profile%20views&color=0e75b6&style=flat" alt="nirglus" /> </p>
 
