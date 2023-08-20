@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **nirgluskin@gmail.com**
+- 📫 How to reach me **glusknir@gmail.com**
 
 - ⚡ Fun fact **I'm also a racing driver**
 
