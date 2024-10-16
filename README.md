@@ -14,5 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,firebase,py,sass,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,firebase,py,sass,bootstrap,tailwind,aws" />
 </p>
