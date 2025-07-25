@@ -8,9 +8,9 @@
 
 ## 👋 Hey there! I'm Nir
 
-🎓 I'm a Computer Science B.Sc. student and a passionate full-stack developer.  
-💻 Passionate about building apps and learning new tech.
-🚀 Currently expanding my skills in **Java**, and **data structures**.
+🎓 I'm a Computer Science B.Sc. student and a passionate full-stack developer.<br> 
+💻 Passionate about building apps and learning new tech.<br>
+🚀 Currently expanding my skills in **Java**, and **data structures**.<br>
 
 ---
 
